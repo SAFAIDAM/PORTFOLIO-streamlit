@@ -1,2 +1,2 @@
 # PORTFOLIO-streamlit
-this code it presents a portfolio using streamlit 
+this code it presents a portfolio using streamlit lib
